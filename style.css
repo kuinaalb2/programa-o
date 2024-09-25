@@ -1,5 +1,5 @@
 body{
-   backgroud-color: #FFB6C1
+   background-color: #FFB6C1 ;
    font-family: Bai jamjuree;
 }
 
@@ -8,8 +8,8 @@ body{
   display: flex;
 }
 
-.cartão{
+.cartao{
 
     margin: 1rem 1rem;
-    backgroud-color: #DDA0DD;
+    background-color: #DDA0DD;
 }
